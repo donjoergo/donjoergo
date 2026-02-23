@@ -44,6 +44,8 @@ Below are some of the languages and tools I use.
 
 ![My Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,azuredevops,vscode,githubcopilot,brave,powertoys)
 
-### Stats
+## Stats
+
+![donjoergo's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=donjoergo&theme=ambient_gradient)
 
 ![trophy](https://github-profile-trophy-tawny.vercel.app/?username=donjoergo&no-bg=true)
