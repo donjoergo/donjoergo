@@ -15,6 +15,7 @@ Find out more about my professional work in my [LinkedIn profile](https://www.li
 ### 🔭 In my leisure time I’m currently working on:
 
 - My [Electric Bobby Car](https://github.com/donjoergo/bobbycar) 🏎️
+- [GlassTrail](https://github.com/donjoergo/GlassTrail), a Flutter App for tracking you drinking behavior 🍺
 - I like to contribute to open source projects which interest me 🤖
 - Other DIY projects here and there
 
@@ -34,7 +35,7 @@ Below are some of the languages and tools I use.
 
 ### Frameworks
 
-![My Frameworks](https://go-skill-icons.vercel.app/api/icons?i=bootstrap)
+![My Frameworks](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,flutter)
 
 ### Platforms
 
