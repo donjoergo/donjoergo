@@ -43,7 +43,9 @@ Below are some of the languages and tools I use.
 
 ### Tools
 
-![My Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,azuredevops,vscode,catppuccin,githubcopilot,brave,powertoys)
+![My Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,azuredevops,vscode)
+
+![My Tools](https://go-skill-icons.vercel.app/api/icons?i=catppuccin,githubcopilot,brave,powertoys)
 
 ## Stats
 
