@@ -8,7 +8,7 @@ I am interested in **climate change**, **renewable energies**, **train traewelli
 
 ### 🤑 What do I do professionally?
 
-Currently I am working as a **Product Owner** for a **Line Management System** (LMS). A LMS enables customes with production plants to track their downtimes, analyze them and ultimately take measures to minize their downtimes.
+Currently I am working as a **Product Owner** for a **Line Management System** (LMS). A LMS enables customes with production plants to track their downtimes, analyze them and ultimately take measures to minimize their downtimes.
 
 Find out more about my professional work in my [LinkedIn profile](https://www.linkedin.com/in/joergdorlach).
 
