@@ -4,7 +4,7 @@ Welcome to my Github profile!
 
 ## About me
 
-I am interested in **climate change**, **renewable energies**, **train traewelling** 😉 and how IT can solve some of the problems we are currently facing.
+I am interested in **climate change**, **renewable energies**, **train traewelling** 😉, **current AI trends**, and how IT can solve some of the problems we are currently facing.
 
 ### 🤑 What do I do professionally?
 
