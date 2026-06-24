@@ -16,7 +16,7 @@ Find out more about my professional work in my [LinkedIn profile](https://www.li
 
 - My [Electric Bobby Car](https://github.com/donjoergo/bobbycar) 🏎️
 - [GlassTrail](https://github.com/donjoergo/GlassTrail), a Flutter App for tracking you drinking behavior 🍺
-- I like to contribute to open source projects which interest me 🤖
+- I like to contribute to open source projects which interest me, like [OpenStreetMap 🗺️](https://www.openstreetmap.org/user/donjoergo)
 - Other DIY projects here and there
 
 ### 📫 How to reach me
