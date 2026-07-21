@@ -37,6 +37,11 @@ Below are some of the languages and tools I use.
 
 ![My Frameworks](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,flutter)
 
+### AI
+
+![My AI Tools](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,chatgpt,deepseek)
+
+
 ### Platforms
 
 ![My Platforms](https://go-skill-icons.vercel.app/api/icons?i=cachyos,arduino,raspberrypi,windows)
@@ -45,10 +50,20 @@ Below are some of the languages and tools I use.
 
 ![My Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,azuredevops,vscode)
 
-![My Tools](https://go-skill-icons.vercel.app/api/icons?i=catppuccin,githubcopilot,brave,powertoys)
+![My Tools](https://go-skill-icons.vercel.app/api/icons?i=catppuccin,brave,powertoys)
 
-## Stats
+## Stats 📊
 
-![donjoergo's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=donjoergo&theme=ambient_gradient)
-
-![trophy](https://github-profile-trophy-tawny.vercel.app/?username=donjoergo&no-bg=true)
+<div align="center">
+  <img align="center" height="180px" width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=donjoergo&theme=ambient_gradient" alt="donjoergo's GitHub Streak"/>
+  <img align="center" height="180px" width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=donjoergo&theme=react&hide_border=false" alt="donjoergo's Contribution Graph"/>
+  <br/>
+  <br/> 
+  <img align="center" src="https://github-profile-trophy-tawny.vercel.app/?username=donjoergo&no-bg=true" alt="donjoergo's GitHub Trophies"/>
+  <br/>
+  <br/>
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=donjoergo&langs_count=4&theme=tokyonight" alt="donjoergo's Top Languages"/>
+  <br/>
+  <br/>
+  <img align="center" src="https://komarev.com/ghpvc/?username=donjoergo&color=blue&style=for-the-badge" alt="donjoergo's GitHub Profile Visits"/>
+</div>
