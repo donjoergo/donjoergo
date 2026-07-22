@@ -31,26 +31,25 @@ Below are some of the languages and tools I use.
 
 ### Languages
 
-![My Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,python)
+![My Languages](https://skill-icons-donjoergo.vercel.app/api/icons?i=html,css,javascript,python)
 
 ### Frameworks
 
-![My Frameworks](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,flutter)
+![My Frameworks](https://skill-icons-donjoergo.vercel.app/api/icons?i=bootstrap,flutter)
 
 ### AI
 
-![My AI Tools](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,chatgpt,deepseek)
-
+![My AI Tools](https://skill-icons-donjoergo.vercel.app/api/icons?i=claudecode,codex,lmstudio,githubcopilot,chatgpt,deepseek&perline=3)
 
 ### Platforms
 
-![My Platforms](https://go-skill-icons.vercel.app/api/icons?i=cachyos,arduino,raspberrypi,windows)
+![My Platforms](https://skill-icons-donjoergo.vercel.app/api/icons?i=cachyos,arduino,raspberrypi,windows)
 
 ### Tools
 
-![My Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,azuredevops,vscode)
+![My Tools](https://skill-icons-donjoergo.vercel.app/api/icons?i=git,github,azuredevops,powertoys)
 
-![My Tools](https://go-skill-icons.vercel.app/api/icons?i=catppuccin,brave,powertoys)
+![My Tools](https://skill-icons-donjoergo.vercel.app/api/icons?i=catppuccin,brave,antigravity,vscode)
 
 ## Stats 📊
 
