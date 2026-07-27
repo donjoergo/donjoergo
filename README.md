@@ -39,7 +39,7 @@ Below are some of the languages and tools I use.
 
 ### AI
 
-![My AI Tools](https://skill-icons-donjoergo.vercel.app/api/icons?i=claudecode,codex,lmstudio,githubcopilot,chatgpt,deepseek&perline=3)
+![My AI Tools](https://skill-icons-donjoergo.vercel.app/api/icons?i=claudecode,codex,lmstudio,ollama,githubcopilot,opencode,chatgpt,deepseek&perline=4)
 
 ### Platforms
 
