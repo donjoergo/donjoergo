@@ -47,9 +47,7 @@ Below are some of the languages and tools I use.
 
 ### Tools
 
-![My Tools](https://skill-icons-donjoergo.vercel.app/api/icons?i=git,github,azuredevops,powertoys)
-
-![My Tools](https://skill-icons-donjoergo.vercel.app/api/icons?i=catppuccin,brave,antigravity,vscode)
+![My Tools](https://skill-icons-donjoergo.vercel.app/api/icons?i=git,github,azuredevops,powertoys,catppuccin,brave,antigravity,vscode&perline=4)
 
 ## Stats 📊
 
