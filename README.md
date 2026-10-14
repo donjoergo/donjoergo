@@ -24,6 +24,7 @@ Find out more about my professional work in my [LinkedIn profile](https://www.li
 If you have any questions want to tell me something, just drop me a message. I am happy to read your message!
 
 - Contact me on [LinkedIn](https://www.linkedin.com/in/joergdorlach)
+- Contact me on [Discord](https://discord.gg/RzvTabfM)
 
 ## Tech Stack
 
